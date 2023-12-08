@@ -1,11 +1,11 @@
-# ATTRIBUTION SERVICE API DOCUMENTATION:
+## ATTRIBUTION SERVICE API DOCUMENTATION:
 
-### create Parter : [createPartnerAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/createPartner.md)
+1. CREATE PARTNER : [createPartnerAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/createPartner.md)
 
-### customer Eligibility Check: [eligibilityCheckAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/customerEligibilityCheck.md)
+2. CUSTOMER ELIGIBILITY CHECK: [eligibilityCheckAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/customerEligibilityCheck.md)
 
-### pre Approval Offer check: [preApprovalAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/preApprovalOffer.md)
+3. PRE APPROVAL OFFER CHECK: [preApprovalAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/preApprovalOffer.md)
 
-### SINGULAR POSTBACK API: [postBackAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/postBackApi.md)
+4. SINGULAR POSTBACK API: [postBackAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/postBackApi.md)
 
-### ATTRIBUTION PARTNER LOCK: [attributionLockAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/attributionLock.md)
+5. ATTRIBUTION PARTNER LOCK: [attributionLockAPI_LINK](https://github.com/devanandgiri-respo/attribution-service-readme/blob/main/attribution-service/attributionLock.md)
